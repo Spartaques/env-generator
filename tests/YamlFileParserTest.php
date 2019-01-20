@@ -1,8 +1,8 @@
 <?php
 
-namespace Andrew\PhpHorizonConfigsLoader;
+namespace Spartaques\PhpHorizonConfigsLoader;
 
-use Andrew\PhpHorizonConfigsLoader\yaml\YamlFileParser;
+use Spartaques\PhpHorizonConfigsLoader\yaml\YamlFileParser;
 
 class YamlFileParserTest extends \PHPUnit\Framework\TestCase
 {

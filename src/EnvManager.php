@@ -1,11 +1,11 @@
 <?php
 
 
-namespace Andrew\PhpHorizonConfigsLoader;
+namespace Spartaques\PhpHorizonConfigsLoader;
 
-use Andrew\PhpHorizonConfigsLoader\yaml\YamlFileParser;
-use Andrew\PhpHorizonConfigsLoader\zookeeper\ZookeeperConfigsGenerator;
-use Andrew\PhpHorizonConfigsLoader\zookeeper\ZookeeperConnection;
+use Spartaques\PhpHorizonConfigsLoader\yaml\YamlFileParser;
+use Spartaques\PhpHorizonConfigsLoader\zookeeper\ZookeeperConfigsGenerator;
+use Spartaques\PhpHorizonConfigsLoader\zookeeper\ZookeeperConnection;
 
 class EnvManager
 {

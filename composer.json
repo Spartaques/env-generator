@@ -19,12 +19,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Andrew\\PhpHorizonConfigsLoader\\": "src"
+            "Spartaques\\PhpHorizonConfigsLoader\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Andrew\\PhpHorizonConfigsLoader\\": "tests"
+            "Spartaques\\PhpHorizonConfigsLoader\\": "tests"
         }
     },
     "require-dev": {

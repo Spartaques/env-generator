@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Andrew\PhpHorizonConfigsLoader\yaml;
+namespace Spartaques\PhpHorizonConfigsLoader\yaml;
 
 use Symfony\Component\Yaml\Yaml;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace Andrew\PhpHorizonConfigsLoader\zookeeper;
+namespace Spartaques\PhpHorizonConfigsLoader\zookeeper;
 
 use Kyoz\ZookeeperClient;
 
