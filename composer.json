@@ -1,6 +1,6 @@
 {
     "name": "spartaques/php-horizon-configs-loader",
-    "license": "",
+    "license": "MIT",
     "description": "Configs loader",
     "type": "project",
     "authors": [
