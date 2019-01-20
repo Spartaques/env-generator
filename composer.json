@@ -2,7 +2,7 @@
     "name": "spartaques/php-horizon-configs-loader",
     "license": "MIT",
     "description": "Configs loader",
-    "type": "project",
+    "type": "library",
     "authors": [
         {
             "name": "Andriy Bashuk",
