@@ -15,7 +15,7 @@
         "symfony/yaml": "~4.1.0",
         "kyoz/zookeeper-client": "~1.0",
         "larapack/dd": "~1.1",
-        "illuminate/support": "~5.7",
+        "illuminate/support": "~5.7"
     },
     "autoload": {
         "psr-4": {
