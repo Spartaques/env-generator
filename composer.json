@@ -1,0 +1,33 @@
+{
+    "name": "andrew/php-horizon-configs-loader",
+    "license": "",
+    "description": "Configs loader",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Andriy Bashuk",
+            "email": "abashuk@newagesol.com"
+        }
+    ],
+    "require": {
+        "php": "^7.1",
+        "ext-zookeeper": "*",
+        "symfony/yaml": "~4.1.0",
+        "kyoz/zookeeper-client": "~1.0",
+        "larapack/dd": "~1.1",
+        "illuminate/support": "~5.7",
+    },
+    "autoload": {
+        "psr-4": {
+            "Andrew\\PhpHorizonConfigsLoader\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Andrew\\PhpHorizonConfigsLoader\\": "tests"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    }
+}
